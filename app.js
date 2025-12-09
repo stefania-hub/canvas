@@ -8,6 +8,8 @@ console.log("canvas", myCanvas.width, myCanvas.height);
 
 const ctx = myCanvas.getContext('2d');
 
+
+
 // ctx.fillRect(10, 10, 100, 50);
 
 // ctx.fillStyle = 'red';
