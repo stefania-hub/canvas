@@ -1,42 +1,5 @@
-/* *{
-    border: 1px solid crimson;
-    box-sizing: border-box;
-}
-html,body{
-    margin: 0px;
-    padding: 0px;
-    height: 100vh;
-}
-
-body{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #000010;
-}
-
-
-#my-canvas{
-    background-color: white;
-} */
-
-*{
-    box-sizing: border-box;
-}
-
-html,body{
+body {
     margin: 0;
     padding: 0;
-    height: 100vh;
-}
-
-body{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #000010;
-}
-
-#my-canvas{
-    background-color: white;
+    background: #eee;
 }
